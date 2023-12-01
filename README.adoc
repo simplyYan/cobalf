@@ -11,6 +11,9 @@ To start using Cobalf in your project, you can include it via the CDN link:
 <script src="https://cdn.jsdelivr.net/gh/simplyYan/cobalf@main/cobalf.js"></script>
 ----
 
+== Docs
+Documentation available on Wiki. Check it out: https://github.com/simplyYan/cobalf/wiki/Cobalf
+
 == Features
 
 Cobalf offers a plethora of features to streamline your front-end development:
