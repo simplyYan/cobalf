@@ -28,6 +28,14 @@ class Cobalf {
         localStorage.setItem(key, encryptedValue);
     }
 
+    CSS(css) {
+        return function() {
+            const style = document.createElement('style');
+            style.innerHTML = css;
+            document.head.appendChild(style);
+        }
+    }
+
     GetStorage(key) {
         const encryptedValue = localStorage.getItem(key);
         return this.decrypt(encryptedValue, key);
