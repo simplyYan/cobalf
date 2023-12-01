@@ -29,13 +29,14 @@ Documentation available on Wiki. Check it out: https://github.com/simplyYan/coba
 
 Cobalf offers a plethora of features to streamline your front-end development:
 
-* HTML Manipulation: Easily add, modify, and sanitize HTML content in the document.
-* LocalStorage Handling: Store and retrieve encrypted data securely in the browser's localStorage.
-* Network Requests: Perform AJAX requests with ease and handle responses seamlessly.
-* Toolbox Activation: Access useful tools like current date, last modification time, etc.
-* Encryption & Decryption: Simulate encryption and decryption methods for data security.
-* Lightweight & Fast: Designed to be efficient and performant for optimal user experience.
-* Open-Source & Comprehensive Documentation: Transparent source code and extensive documentation for easy usage and understanding.
+* Lightweight: Cobalf was designed to be lightweight. Our framework was created end-to-end with pure JavaScript, no external libraries.
+* Easy: Things don't have to be complicated. Even more so, in this day and age, they need to be uncomplicated. Front-end frameworks are difficult and tiring, with a steep learning curve. This issue influenced me and led me to create Cobalf. It's extremely easy and works in an obvious way.
+* Open-source: Cobalf is open-source and anyone can contribute.
+* Fast: Because it's lightweight and built only with JavaScript, Cobalf is lightweight. It's also built in a single file.
+* Plug and Play: Simply add the JavaScript from the CDN or download it, and you're done. Why configurations? Why have a different file extension? Cobalf does the simple thing, which is why it's superior to all frameworks.
+* Comprehensive documentation: Cobalf has incredible documentation! With easy-to-understand examples and explanations, it explains everything you need to know.
+* Comprehensive: The word "front-end" is just a summary of Cobalf. In addition to dynamic HTML and CSS injection, string selection, declarative rendering, external JavaScript and dynamic CSS loading, dynamic tag editing, string comparison and string parsing, Cobalf offers request issuing (GET or POST). Our request emitter was built purely with JavaScript, without using third-party libraries or frameworks.
+* Ideal for any project: Cobalf is perfect for any project.
 
 == License
 
