@@ -1,5 +1,12 @@
 = Cobalf JavaScript Library
 
+_________         ___.            .__    __    
+\_   ___ \   ____ \_ |__  _____   |  | _/  |_  
+/    \  \/  /  _ \ | __ \ \__  \  |  | \   __\ 
+\     \____(  <_> )| \_\ \ / __ \_|  |__|  |   
+ \______  / \____/ |___  /(____  /|____/|__|   
+        \/             \/      \/              
+                                                                                                               
 Cobalf is a lightweight, fast, and feature-rich JavaScript library aimed at simplifying front-end development tasks. It provides a comprehensive set of functionalities to empower developers in creating dynamic and secure web applications.
 
 == Installation
