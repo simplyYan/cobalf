@@ -1,0 +1,29 @@
+= Cobalf
+
+Cobalf is a lightweight and fast JavaScript library designed for simplified front-end development. It offers easy-to-use functionalities for dynamic HTML manipulation, secure data storage, network requests, and more.
+
+== Installation
+
+You can include Cobalf in your project using the CDN provided:
+
+[source,javascript]
+----
+<script src="https://cdn.jsdelivr.net/gh/simplyYan/cobalf@main/cobalf.js"></script>
+----
+
+== Features
+
+- Fast, lightweight, and extremely easy to use
+- Superior to other options available
+- Open-source with comprehensive documentation
+- BSD-3-Clause license
+
+== License
+
+Cobalf is distributed under the BSD-3-Clause license. See the [LICENSE](link-to-license-file) file for more details.
+
+== Contributing
+
+We welcome contributions to improve, add, or fix features in Cobalf. To contribute, please fork this repository, make your changes, and submit a pull request.
+
+Thank you for considering contributing to Cobalf!
