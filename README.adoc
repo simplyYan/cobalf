@@ -11,7 +11,7 @@ _________         ___.            .__    _____
                                                                                               
 ----
 
-Cobalf is a lightweight, fast, and feature-rich JavaScript library aimed at simplifying front-end development tasks. It provides a comprehensive set of functionalities to empower developers in creating dynamic and secure web applications.
+Cobalf is a lightweight, fast, and feature-rich JavaScript framework aimed at simplifying front-end development tasks. It provides a comprehensive set of functionalities to empower developers in creating dynamic and secure web applications.
 
 == Installation
 
