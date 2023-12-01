@@ -1,10 +1,10 @@
-= Cobalf
+= Cobalf JavaScript Library
 
-Cobalf is a lightweight and fast JavaScript library designed for simplified front-end development. It offers easy-to-use functionalities for dynamic HTML manipulation, secure data storage, network requests, and more.
+Cobalf is a lightweight, fast, and feature-rich JavaScript library aimed at simplifying front-end development tasks. It provides a comprehensive set of functionalities to empower developers in creating dynamic and secure web applications.
 
 == Installation
 
-You can include Cobalf in your project using the CDN provided:
+To start using Cobalf in your project, you can include it via the CDN link:
 
 [source,javascript]
 ----
@@ -13,17 +13,22 @@ You can include Cobalf in your project using the CDN provided:
 
 == Features
 
-- Fast, lightweight, and extremely easy to use
-- Superior to other options available
-- Open-source with comprehensive documentation
-- BSD-3-Clause license
+Cobalf offers a plethora of features to streamline your front-end development:
+
+* HTML Manipulation: Easily add, modify, and sanitize HTML content in the document.
+* LocalStorage Handling: Store and retrieve encrypted data securely in the browser's localStorage.
+* Network Requests: Perform AJAX requests with ease and handle responses seamlessly.
+* Toolbox Activation: Access useful tools like current date, last modification time, etc.
+* Encryption & Decryption: Simulate encryption and decryption methods for data security.
+* Lightweight & Fast: Designed to be efficient and performant for optimal user experience.
+* Open-Source & Comprehensive Documentation: Transparent source code and extensive documentation for easy usage and understanding.
 
 == License
 
-Cobalf is distributed under the BSD-3-Clause license. See the [LICENSE](link-to-license-file) file for more details.
+Cobalf is distributed under the BSD-3-Clause license. Refer to the [LICENSE](LICENSE) file for detailed information.
 
 == Contributing
 
-We welcome contributions to improve, add, or fix features in Cobalf. To contribute, please fork this repository, make your changes, and submit a pull request.
+We welcome contributions from the community to enhance and improve Cobalf. To contribute, please fork this repository, make your changes, and submit a pull request. Your feedback and contributions are highly appreciated!
 
-Thank you for considering contributing to Cobalf!
+Thank you for choosing Cobalf for your front-end development needs!
