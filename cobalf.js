@@ -83,12 +83,13 @@ class Cobalf {
         document.body.insertAdjacentHTML('beforeend', sanitizedHTML);
     }
 
-    sanitizeHTML(html) {
-        const element = document.createElement('div');
-        element.innerText = html;
-        const sanitizedHTML = element.innerHTML;
-        return sanitizedHTML;
-    }
+   sanitizeHTML(html) {
+    const element = document.createElement('div');
+    element.innerHTML = html;
+    const sanitizedHTML = element.textContent;
+    return sanitizedHTML;
+}
+
 
     Request(options, successCallback, errorCallback) {
         const xhr = new XMLHttpRequest();
