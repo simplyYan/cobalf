@@ -13,6 +13,33 @@ class Cobalf {
         return this.requestIds.includes(id);
     }
 
+    Select(element, index) {
+        const matches = element.innerHTML.match(/::(.*?)::/g);
+        return matches[index - 1].replace(/::/g, '');
+    }
+
+    Replace(element, index, newValue) {
+        const matches = element.innerHTML.match(/::(.*?)::/g);
+        element.innerHTML = element.innerHTML.replace(matches[index - 1], newValue);
+    }
+
+    InputValue(input) {
+        return input.value;
+    }
+
+    Clipboard(text) {
+        navigator.clipboard.writeText(text);
+    }
+
+    SetAttribute(id, attribute, value) {
+        const element = this.Id(id);
+        element.setAttribute(attribute, value);
+    }
+
+    Id(idd) {
+        return document.getElementById(idd);
+    }
+
     Toolbox() {
         this.toolboxActivated = true;
         this.currentDate = new Date();
