@@ -37,6 +37,8 @@ Cobalf offers a plethora of features to streamline your front-end development:
 * Comprehensive documentation: Cobalf has incredible documentation! With easy-to-understand examples and explanations, it explains everything you need to know.
 * Comprehensive: The word "front-end" is just a summary of Cobalf. In addition to dynamic HTML and CSS injection, string selection, declarative rendering, external JavaScript and dynamic CSS loading, dynamic tag editing, string comparison and string parsing, Cobalf offers request issuing (GET or POST). Our request emitter was built purely with JavaScript, without using third-party libraries or frameworks.
 * Ideal for any project: Cobalf is perfect for any project.
+* Animations: Cobalf has a technology called "Mobalf" that you can use to create elegant, interactive animations. Like Cobalf, Mobalf technology is extremely easy and lightweight, and comes integrated with Cobalf.
+* Modern: Cobalf has facilitated, improved and optimized many tools that everyone knows, such as Virtual DOM and Reactivity, Advanced Componentization, Routing, State Management and Animations, Declarative Rendering, and much more. In addition to the most basic features such as dynamic HTML and CSS injection, string selection, declarative rendering, string substitution and much more!
 
 == License
 
